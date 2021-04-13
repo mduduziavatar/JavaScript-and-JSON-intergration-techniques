@@ -1,11 +1,21 @@
-{
+dataHandler({
     "full_name": "Siphiwe Malinga",
     "title": "Web developer",
     "links": [
-        {"blog": "http://iviewsource.com"},
-        {"facebook": "http://facebook.com"},
-        {"youtube": "http://www.youtube.com"},
-        {"podcast": "http://feeds.feedburner.com"},
-        {"twitter": "http://twitter.com"}
+        {
+            "blog": "http://iviewsource.com"
+        },
+        {
+            "facebook": "http://facebook.com"
+        },
+        {
+            "youtube": "http://www.youtube.com"
+        },
+        {
+            "podcast": "http://feeds.feedburner.com"
+        },
+        {
+            "twitter": "http://twitter.com"
+        }
     ]
-}
+});
