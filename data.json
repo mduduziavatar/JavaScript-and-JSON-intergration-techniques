@@ -1,4 +1,4 @@
-dataHandler({
+{
     "full_name": "Siphiwe Malinga",
     "title": "Web developer",
     "links": [
@@ -18,4 +18,4 @@ dataHandler({
             "twitter": "http://twitter.com"
         }
     ]
-});
+}
